@@ -1,0 +1,229 @@
+.body-element {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+#outer-shell {
+display: flex;
+padding: 25px;
+border: solid black;
+height: 400px;
+width: 400px;
+justify-content: center;
+border-radius: 6px;
+flex-direction: column;
+align-items: center;
+background-color: lightgray;
+flex-wrap: wrap;
+}
+.top-header {
+background-color: lightblue;
+display: flex;
+justify-content: center;
+width: 325px;
+height: 50px;
+border: solid black;
+border-radius: 6px;
+font-size: 38px;
+font-family: fantasy, copperplate, sans-serif ;
+}
+
+#top-column {
+display: flex;
+justify-content: center;
+border: solid black;
+border-radius: 6px;
+height: 25px;
+width: 325px;
+}
+
+#casio-logo {
+display: flex;
+justify-content: center;
+border: solid black;
+border-radius: 6px;
+height: 22px;
+width: 115px;
+background-color: gray;
+color: white;
+}
+
+#solar-panel {
+height: 22px;
+width: 210px;
+border: solid black;
+border-radius: 6px;
+display: flex;
+justify-content: center;
+background-color: gold;
+font-family: fantasy, copperplate, sans-serif ;
+}
+
+#second-column {
+border: solid black;
+border-radius: 6px;
+height: 48px;
+width: 325px;
+}
+
+#total-button-display {
+border: solid black;
+border-radius: 6px;
+width: 323px;
+height: 48px;
+justify-content: center;
+background-color: tan;
+}
+
+#third-column {
+border: solid black;
+border-radius: 6px;
+height: 22px;
+width: 325px;
+display: flex;
+
+}
+
+#sl300sv {
+border: solid black;
+border-radius: 6px;
+width: 108.33px;
+height: 17px;
+display: flex;
+justify-content: center;
+}
+
+#square-root {
+border: solid black;
+border-radius: 6px;
+width: 108.33px;
+height: 17px;
+display:flex;
+justify-content: center;
+}
+
+#off-key {
+border: solid black;
+border-radius: 6px;
+width: 108.33px;
+height: 17px;
+display: flex;
+justify-content: center;
+font-family: fantasy, copperplate, sans-serif ;
+background-color: darkred;
+}
+
+#fourth-column {
+border: solid black;
+border-radius: 6px;
+width: 325px;
+height: 22px;
+display: flex;
+}
+
+#mc-key {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: tan;
+}
+
+#mr-key {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: tan;
+}
+
+#m-minus-key {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: tan;
+}
+
+#m-plus-key {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: tan;
+}
+
+#division-key {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: lightblue;
+}
+
+#fifth-column {
+border: solid black;
+border-radius: 6px;
+width: 325px;
+height: 22px;
+display: flex;
+}
+
+#percent-key {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: lightblue;
+}
+
+.operator {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: lightblue;
+color: black;
+}
+
+.number {
+border: solid black;
+border-radius: 6px;
+width: 65px;
+display: flex;
+justify-content: center;
+background-color: lightgrey;
+color: black;
+}
+
+.columns {
+display: flex;
+justify-content: center;
+border: solid black;
+border-radius: 6px;
+height: 25px;
+width: 325px;
+}
+
+.top-header {
+
+}
+
+#blank-key {
+background-color: tan;
+}
+
+#last-column {
+background-color: lightblue;
+}
+
+#author-signature {
+font-family: fantasy, copperplate, sans-serif ;
+}
